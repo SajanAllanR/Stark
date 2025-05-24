@@ -1,3 +1,6 @@
+#Assignment 1
 # Task 1 Basic Mathematical Operations.py
 # Task 2 Personalized Greeting.py
-# Above files have been created for Assignment 1 of Module 2: Basic Python Concepts
+#Assignment 2
+# Module 3 Even or Odd
+# Module 3 Sum of integers 1 to 50

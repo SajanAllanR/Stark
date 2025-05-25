@@ -1,4 +1,4 @@
-print("SUM OF INTEGERS FROM 1 to 50")
+#print("SUM OF INTEGERS FROM 1 to 50")
 y=0
 for x in range (1, 51):
     y = x + y

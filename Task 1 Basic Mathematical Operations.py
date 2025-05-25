@@ -1,3 +1,4 @@
+'''
 op=input('What do you want to do? \n 1.Add\t2.Substract\t3.Multiply\t4.Divide\t5.Exit')
 if op=='Add':
     add1 = input("Provide first number: ");
@@ -15,3 +16,11 @@ if op=='Divide':
     div1 = input("Provide first number: ");
     div2 = input("Provide second number: ");
     print(float(div1) // float(div2));
+'''
+a=int(input("Enter the first number: "))
+b=int(input("Enter the second number: "))
+
+print("Addition: ", a+b)
+print("Substraction: ", a-b)
+print("Multiplication: ", a*b)
+print("Division: ", a/b)
